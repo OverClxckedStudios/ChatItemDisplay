@@ -1,8 +1,8 @@
 name: ${javaplugin.name}
 main: ${javaplugin.main}
-description: ${javaplugin.description}
+description: A fork of ${javaplugin.name} by Aurora (Clxcks)
 api-version: 1.13
-author: BingoRufus
+author: AuroraForks
 version: ${project.version}
 depend: [ ProtocolLib ]
 softdepend: [ DiscordSRV ]
